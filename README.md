@@ -1,6 +1,9 @@
 # Traceroute
 Inet Protocols task 1
-Использование: py Traceroute.py informburo.kz
+Использование: 
+```
+py Traceroute.py informburo.kz
+```
 Вывод:
 ```
 №    IP                   AS        Country   Provider
